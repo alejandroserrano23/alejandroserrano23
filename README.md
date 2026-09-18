@@ -3,7 +3,7 @@
   <p><strong>Computer Engineer | Networks & Systems | Backend & Cloud Enthusiast</strong></p>
 
   <p>
-    <a href="https://linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.linkedin.com/in/alejandroserranoarcos/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:alejandroserranoarcos@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="#"><img src="https://img.shields.io/badge/English-B2_Certified-success?style=for-the-badge" alt="English B2" /></a>
   </p>
